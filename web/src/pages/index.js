@@ -98,7 +98,7 @@ const IndexPage = props => {
       />
       <Container>
         <h1 hidden>Welcome to {site.title}</h1>
-        <p>site.subtitle</p>
+        <p>Welcome To Erin Jerri's Portfolio</p>
         {postNodes && (
           <BlogPostPreviewList
             title='Latest blog posts'
