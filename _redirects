@@ -1,0 +1,3 @@
+# Redirects from what the browser requests to what we serve
+
+http://www.erinjerrix.netlify.com* http://erinjerri.com/:splat 301!
